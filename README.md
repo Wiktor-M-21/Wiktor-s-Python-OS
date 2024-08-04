@@ -1,6 +1,6 @@
-# Welcome to Wiktor Python OS which is focused on creating an OS with a good design.
+### Welcome to Wiktor Python OS which is focused on creating an OS with a good design.
 
-# Main functions of the project is to have 
+#### Main functions of the project is to have 
 1. security
 2. installer
 3. default applications
