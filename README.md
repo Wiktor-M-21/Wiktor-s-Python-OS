@@ -2,6 +2,7 @@
 
 #### Main functions of the project is to have 
 1. security
+    i. Encrytion and Decryption
 2. installer
 3. default applications
 4. API so that other uses can use it to create their own apps
